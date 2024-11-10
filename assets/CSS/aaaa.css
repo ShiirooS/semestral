@@ -1,0 +1,835 @@
+/* subcategorías
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+
+
+/* person-circle-sharp */
+
+position: absolute;
+width: 100px;
+height: 89px;
+left: 2401px;
+top: 37px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 9.38%;
+right: 9.38%;
+top: 9.38%;
+bottom: 9.38%;
+
+background: #0C1640;
+
+
+/* construct */
+
+position: absolute;
+width: 67px;
+height: 70px;
+left: 2288px;
+top: 48px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 18.74%;
+right: 0%;
+top: 9.38%;
+bottom: 9.37%;
+
+background: #070D24;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 12.51%;
+top: 9.38%;
+bottom: 9.37%;
+
+background: #070D24;
+
+
+/* Titulo */
+
+position: absolute;
+width: 937px;
+height: 113px;
+left: 380px;
+top: 71px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 96px;
+line-height: 112px;
+/* identical to box height */
+
+color: #484040;
+
+
+
+/* Teatro */
+
+position: absolute;
+width: 160px;
+height: 128px;
+left: 2107px;
+top: 1123px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 55px;
+line-height: 64px;
+
+color: #FFFFFF;
+
+
+
+/* Danzas */
+
+position: absolute;
+width: 182px;
+height: 64px;
+left: 2106px;
+top: 669px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 55px;
+line-height: 64px;
+
+color: #FFFFFF;
+
+
+
+/* Cajita */
+
+position: absolute;
+width: 423px;
+height: 252px;
+left: 410px;
+top: 257px;
+
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 423px;
+height: 252px;
+left: 410px;
+top: 257px;
+
+background: #070D24;
+border-radius: 27px;
+
+
+/* Artesanías */
+
+position: absolute;
+width: 196px;
+height: 47px;
+left: 524px;
+top: 447px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* image 8 */
+
+position: absolute;
+width: 275.13px;
+height: 147.52px;
+left: 484px;
+top: 289px;
+
+background: url(image.png);
+border-radius: 37px;
+
+
+/* Cajita4 */
+
+position: absolute;
+width: 423px;
+height: 252px;
+left: 409px;
+top: 527px;
+
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 423px;
+height: 252px;
+left: 409px;
+top: 527px;
+
+background: #070D24;
+border-radius: 27px;
+
+
+/* Artesanías */
+
+position: absolute;
+width: 203px;
+height: 42px;
+left: 520px;
+top: 718px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+
+color: #FFFFFF;
+
+
+
+/* image 8 */
+
+position: absolute;
+width: 275.13px;
+height: 147.52px;
+left: 483px;
+top: 566px;
+
+background: url(image.png);
+border-radius: 37px;
+
+
+/* Cajita7 */
+
+position: absolute;
+width: 423px;
+height: 252px;
+left: 409px;
+top: 802px;
+
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 423px;
+height: 252px;
+left: 409px;
+top: 802px;
+
+background: #070D24;
+border-radius: 27px;
+
+
+/* Artesanías */
+
+position: absolute;
+width: 203px;
+height: 42px;
+left: 520px;
+top: 993px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+
+color: #FFFFFF;
+
+
+
+/* image 8 */
+
+position: absolute;
+width: 275.13px;
+height: 147.52px;
+left: 483px;
+top: 841px;
+
+background: url(image.png);
+border-radius: 37px;
+
+
+/* Cajita5 */
+
+position: absolute;
+width: 423px;
+height: 252px;
+left: 894px;
+top: 532px;
+
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 423px;
+height: 252px;
+left: 894px;
+top: 532px;
+
+background: #070D24;
+border-radius: 27px;
+
+
+/* Artesanías */
+
+position: absolute;
+width: 200px;
+height: 37px;
+left: 1006px;
+top: 718px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+
+color: #FFFFFF;
+
+
+
+/* image 8 */
+
+position: absolute;
+width: 275.13px;
+height: 147.52px;
+left: 968px;
+top: 566px;
+
+background: url(image.png);
+border-radius: 37px;
+
+
+/* Cajita8 */
+
+position: absolute;
+width: 423px;
+height: 252px;
+left: 894px;
+top: 802px;
+
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 423px;
+height: 252px;
+left: 894px;
+top: 802px;
+
+background: #070D24;
+border-radius: 27px;
+
+
+/* Artesanías */
+
+position: absolute;
+width: 200px;
+height: 37px;
+left: 1006px;
+top: 988px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+
+color: #FFFFFF;
+
+
+
+/* image 8 */
+
+position: absolute;
+width: 275.13px;
+height: 147.52px;
+left: 968px;
+top: 836px;
+
+background: url(image.png);
+border-radius: 37px;
+
+
+/* Cajita6 */
+
+position: absolute;
+width: 423px;
+height: 252px;
+left: 1380px;
+top: 527px;
+
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 423px;
+height: 252px;
+left: 1380px;
+top: 527px;
+
+background: #070D24;
+border-radius: 27px;
+
+
+/* Artesanías */
+
+position: absolute;
+width: 194px;
+height: 56px;
+left: 1501px;
+top: 718px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+
+color: #FFFFFF;
+
+
+
+/* image 8 */
+
+position: absolute;
+width: 275.13px;
+height: 147.52px;
+left: 1459px;
+top: 566px;
+
+background: url(image.png);
+border-radius: 37px;
+
+
+/* Cajita9 */
+
+position: absolute;
+width: 423px;
+height: 252px;
+left: 1380px;
+top: 802px;
+
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 423px;
+height: 252px;
+left: 1380px;
+top: 802px;
+
+background: #070D24;
+border-radius: 27px;
+
+
+/* Artesanías */
+
+position: absolute;
+width: 194px;
+height: 56px;
+left: 1501px;
+top: 993px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+
+color: #FFFFFF;
+
+
+
+/* image 8 */
+
+position: absolute;
+width: 275.13px;
+height: 147.52px;
+left: 1459px;
+top: 841px;
+
+background: url(image.png);
+border-radius: 37px;
+
+
+/* Cajita2 */
+
+position: absolute;
+width: 423px;
+height: 252px;
+left: 894px;
+top: 255px;
+
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 423px;
+height: 252px;
+left: 894px;
+top: 255px;
+
+background: #070D24;
+border-radius: 27px;
+
+
+/* Música */
+
+position: absolute;
+width: 131px;
+height: 47px;
+left: 1040px;
+top: 452px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* image 9 */
+
+position: absolute;
+width: 301.14px;
+height: 147.52px;
+left: 955px;
+top: 289px;
+
+background: url(image.png);
+border-radius: 37px;
+
+
+/* Cajita3 */
+
+position: absolute;
+width: 423px;
+height: 252px;
+left: 1380px;
+top: 254px;
+
+
+
+/* Rectangle 18 */
+
+position: absolute;
+width: 423px;
+height: 252px;
+left: 1380px;
+top: 254px;
+
+background: #070D24;
+border-radius: 27px;
+
+
+/* Danzas */
+
+position: absolute;
+width: 133px;
+height: 47px;
+left: 1531px;
+top: 448px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* image 10 */
+
+position: absolute;
+width: 311.67px;
+height: 147.52px;
+left: 1441px;
+top: 290px;
+
+background: url(image.png);
+border-radius: 37px;
+
+
+/* Rectangle 21 */
+
+position: absolute;
+width: 651px;
+height: 404px;
+left: 1865px;
+top: 1234px;
+
+background: #070D24;
+border-radius: 27px;
+
+
+/* Rectangle 22 */
+
+position: absolute;
+width: 651px;
+height: 404px;
+left: 1177px;
+top: 1234px;
+
+background: #070D24;
+border-radius: 27px;
+
+
+/* Rectangle 23 */
+
+position: absolute;
+width: 651px;
+height: 404px;
+left: 488px;
+top: 1234px;
+
+background: #070D24;
+border-radius: 27px;
+
+
+/* Teatro */
+
+position: absolute;
+width: 160px;
+height: 128px;
+left: 2107px;
+top: 1562px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 55px;
+line-height: 64px;
+
+color: #FFFFFF;
+
+
+
+/* Literatura */
+
+position: absolute;
+width: 239px;
+height: 64px;
+left: 1414px;
+top: 1562px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 55px;
+line-height: 64px;
+
+color: #FFFFFF;
+
+
+
+/* Pintura */
+
+position: absolute;
+width: 178px;
+height: 64px;
+left: 708px;
+top: 1549px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 55px;
+line-height: 64px;
+
+color: #FFFFFF;
+
+
+
+/* image 21 */
+
+position: absolute;
+width: 561px;
+height: 278px;
+left: 528px;
+top: 1271px;
+
+background: url(image.png);
+border-radius: 37px;
+
+
+/* image 22 */
+
+position: absolute;
+width: 579px;
+height: 275px;
+left: 1187px;
+top: 1274px;
+
+background: url(image.png);
+border-radius: 37px;
+
+
+/* image 23 */
+
+position: absolute;
+width: 600px;
+height: 300px;
+left: 1887px;
+top: 1260px;
+
+background: url(image.png);
+border-radius: 37px;
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 384px;
+height: 1076px;
+left: 0px;
+top: 4px;
+
+background: rgba(238, 238, 238, 0.933333);
+
+
+/* Navbar */
+
+position: absolute;
+width: 378px;
+height: 457px;
+left: 7px;
+top: 323px;
+
+
+
+/* Inicio */
+
+position: absolute;
+width: 97px;
+height: 47px;
+left: 17px;
+top: 323px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+color: #013D5A;
+
+
+
+/* Actividades */
+
+position: absolute;
+width: 187px;
+height: 42px;
+left: 17px;
+top: 432px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+
+color: #013D5A;
+
+
+
+/* Notificaciones */
+
+position: absolute;
+width: 231px;
+height: 42px;
+left: 17px;
+top: 538px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+
+color: #013D5A;
+
+
+
+/* Registro de Actividades */
+
+position: absolute;
+width: 378px;
+height: 42px;
+left: 7px;
+top: 633px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+
+color: #013D5A;
+
+
+
+/* Actividades propuestas */
+
+position: absolute;
+width: 377px;
+height: 42px;
+left: 7px;
+top: 738px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+
+color: #013D5A;
+
+
+
+/* logo */
+
+position: absolute;
+width: 252px;
+height: 258px;
+left: 70px;
+top: 31px;
+
+background: url(image.png); */

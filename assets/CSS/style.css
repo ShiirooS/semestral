@@ -1,0 +1,33 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f3ebeb;
+}
+.navbar{
+        position: absolute;
+        width: 378px;
+        height: 415px;
+    ul{
+        width: 378px;
+        height: 43px;
+        left: 7px;
+        top: 320px;
+        list-style: none;
+    }
+    li{
+        list-style: none;
+        padding: 15px 10px;
+    }
+    a{
+        color: black;
+        text-transform: uppercase;
+        text-decoration: none;
+        padding: 8px 50px;
+        transition: background-color 0.3s;
+    }
+    a:hover{
+        background-color: gainsboro;
+        border-radius: 5px;
+    }
+}
